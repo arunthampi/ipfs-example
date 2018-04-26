@@ -6,3 +6,7 @@
 ## Vendor'ed IPFS
 
 `go-ipfs` has been vendor'ed using `[govendor](https://github.com/kardianos/govendor)` and following these [instructions](https://medium.com/@iamclovin/use-ipfs-as-a-library-in-your-golang-app-3c8c4b12fe6d)
+
+## Building
+
+You can build this app using `govendor build`.
